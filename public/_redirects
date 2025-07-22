@@ -1,0 +1,5 @@
+# Redirect /admin to /admin/
+/admin /admin/ 301
+
+# Handle client-side routing
+/*    /index.html   200
